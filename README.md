@@ -50,19 +50,21 @@
 | 23     | True    | 24m   | 0.37 | 98.23%         |
 | 24     | True    | 15m   | 0.4  | 97.47%         |
 
-
+## **Misc. Tests #20-24**
 | **Test #** | **Notes** |
 |--------|---------|
 | DynamicStride     | Test executed with fixed stride |
 | StaticStride     | Test executed with dynamic stride |
 | 25     | Test executed with YOLO v7 tiny using Nvidia Jetson Nano in the loop |
 
+## **Scenario Images**
 | Scenarios | Image |
 |-----------|-------|
 | **SP0**       | <img src="images/SP0.jpg" alt="SP0 scenario" style="height: 204; width: 407px;"/>  |
 | **SP1**       | <img src="images/SP1.jpg" alt="SP1 scenario" style="height: 204; width: 407px;"/>  |
 | **SP2**       | <img src="images/SP2.jpg" alt="SP2 scenario" style="height: 204; width: 407px;"/>  |
 
+## **Simulation Setups**
 | Setup # | CPU                       | GPU                                            | RAM  |
 |---------|---------------------------|------------------------------------------------|------|
 | 1       | Intel i7-9750H            | RTX 2060                                       | 16Gb |
